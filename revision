@@ -1,0 +1,32 @@
+1.2.7 Add AICCFG of AIM4RP4  
+1.2.6 Add SN input twice  
+1.2.5 Add MO input for log  
+1.2.4 Add 10300-000007-A.2  
+1.2.3 Add CM_LihRong for log 
+1.2.2 update 20010-000439 poe test 
+1.2.1 Add 20010-000187-A.2 
+1.2.0 Update USB check before AT test 
+1.1.9 Add log department 
+1.1.8 Add log sync Linux server
+1.1.7 Update VT2 CPU test Temp
+1.1.6 Add USB disk check list
+1.1.5 Remove EC25 LTE Rev check
+1.1.4 Remove Log name date info
+1.1.3 Update AIM IDIO test
+1.1.2 Update U7-300LS audio test
+1.1.1 Add RTC check of BI
+1.1.0 Update 300LS Bi CPU High to 55 time add 60 mins
+1.0.9 Update 300LS Bi CPU High to 60
+1.0.8 Add log Update 
+1.0.7 Add uefi Update
+1.0.6 Update Bi CPU High Temp
+1.0.5 Update USB_disk test issue
+1.0.4 Add VT2 BIOS REV check
+1.0.3 Add U7300LS 10951-000010-A.0
+1.0.2 Add RTC 2119 check of VT2
+1.0.1 Update LAN config of VT2
+1.0.0 First release
+
+#The revision neaming rule
+#A.B.C A<OS update B<function update C<small bug update
+ 
